@@ -1,4 +1,6 @@
-# SQL Saturday Blog
-
-This is the SQL Saturday blog page that contains information about SQL Saturday, Inc., the non profit corporation that is managing the SQL Saturday brand.
+---
+layout: home
+title: "SQL Saturday Blog"
+---
+Welcome to the SQLSaturday blog, which has links and documents related to the SQL Saturday brand and the non profit corporation.
 
