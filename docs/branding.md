@@ -13,3 +13,7 @@ The official logo is shown here:
 If the SQL Saturday text is needed, this logo can be used:
 
 ![SQL Saturday logo with text](/assets/img/logos/sqlsaturday_logo.png)
+
+Or this logo:
+
+![Vertical SQL Saturday logo with text](/assets/img/logos/Stacked_Color.png)
