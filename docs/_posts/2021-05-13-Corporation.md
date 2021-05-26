@@ -9,4 +9,4 @@ The corporation was formed and filed officially in Texas today. The following of
 - Stacia Varga
 - Andy Warren
 
-We are now proceeding forward with applications for our EIN and non-profit status.
+We have secured an EIN and are working to establish banking and non-profit status.
