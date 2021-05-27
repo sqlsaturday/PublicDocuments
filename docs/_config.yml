@@ -18,7 +18,7 @@ author: SQLSaturday Incorporated
 
 navbar-links:
   Minutes: "minutes"
-  Board: "bod"
+  Board: "board"
   Resources:
     - Images and Logos: "branding"
     - Code of Conduct: "coc"

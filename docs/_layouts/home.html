@@ -7,8 +7,8 @@ layout: page
 <h2>Recent Posts</h2>
 
 <ul class="post-list">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {%- for post in posts -%}
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    {% for post in posts %}
     <li>
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <h3>
