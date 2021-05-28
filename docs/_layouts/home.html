@@ -9,14 +9,8 @@ layout: page
 <ul>
     {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
     {% for post in posts %}
-    <li>
-      {{ post.date | date: date_format }}
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-    </li>
+    <a href="{{ post.url | absolute_url }}">
+      <h2 class="post-title">{{ post.title }}</h2>
     {% endfor %}
-  </ul>
+</ul>
 
