@@ -4,15 +4,15 @@ layout: page
 
 {{ content }}
 
-<h2>Recent Posts</h2>
-
-{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-    {% for post in posts %}
-    <a href="{{ post.url | absolute_url }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-    {% endfor %}
-
-<p>
+<h2>Latest Post</h2>
+{% for post in site.posts limit:1 %}
+<a href="{{ post.url }}">
+  <h3>{{ post.title }}</h3>
+  <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+  <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+  </a>
+  <p>&nbsp;</p>
+{% endfor %}
 
 </p>If you have any comments or wisht to contact the board, you can <a href="mailto:{{ site.social-network-links.email }}">send an email</a></p>
 
