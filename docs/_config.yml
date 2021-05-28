@@ -18,6 +18,7 @@ author: SQLSaturday Incorporated
 
 navbar-links:
   Minutes: "minutes"
+  Blog: "blog"
   Board: "board"
   Resources:
     - Images and Logos: "branding"

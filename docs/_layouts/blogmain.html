@@ -2,15 +2,13 @@
 layout: page
 ---
 
-<h2>The SQL Saturday Blog</h2>
-
-This is a series of posts on the SQL Saturday corporation.
+{{ content }}
 
 {% for post in site.posts%}
 <a href="{{ post.url }}">
   <h3>{{ post.title }} </h3>
   </a>
-  <p>Posted on ({{ post.date | date: "%d %B %Y" }}) by </{{ post.author}}p>
+  <p>*Posted on {{ post.date | date: "%d %B %Y" }} by {{ post.author }}*</p>
   <div>{{ post.content |truncatehtml | truncatewords: 30 }}</div>
   <p>&nbsp;</p>
 {% endfor %}
