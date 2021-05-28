@@ -6,11 +6,13 @@ layout: page
 
 <h2>Recent Posts</h2>
 
-<ul>
-    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
     {% for post in posts %}
     <a href="{{ post.url | absolute_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
     {% endfor %}
-</ul>
+
+<p>
+
+</p>If you have any comments or wisht to contact the board, you can <a href="mailto:{{ site.social-network-links.email }}">send an email</a></p>
 
