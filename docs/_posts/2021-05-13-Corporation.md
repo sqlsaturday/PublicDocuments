@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SQL Saturday Incorporated"
+author: Steve Jones
 ---
 
 The corporation was formed and filed officially in Texas today. The following officers were listed:
