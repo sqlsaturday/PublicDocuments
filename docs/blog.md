@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: blogmain
 title: "SQL Saturday Blog"
 permalink: /blog/
 ---
