@@ -210,7 +210,6 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
       ext-css: "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.1/css/bootstrap.css"
-      ext-css: "https://cdn.datatables.net/1.10.23/css/dataTables.bootstrap4.min.css"
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
