@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Saturday Incorporated"
+title: "SQL Saturday Mailing List"
 author: Steve Jones
 ---
 I have set up a mailing list at Mailchimp for people to sign up and get information about the SQL Saturday corporation.
