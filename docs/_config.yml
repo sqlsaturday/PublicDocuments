@@ -20,6 +20,7 @@ navbar-links:
   Minutes: "minutes"
   Blog: "blog"
   Board: "board"
+  SQL Saturday: "http://sqlsaturday.com"
   Resources:
     - Images and Logos: "branding"
     - Code of Conduct: "coc"
