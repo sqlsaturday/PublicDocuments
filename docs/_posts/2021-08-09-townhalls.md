@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 9, 2021 Town Halls"
+title: "9 August 2021 Town Halls"
 author: Steve Jones
 ---
 
