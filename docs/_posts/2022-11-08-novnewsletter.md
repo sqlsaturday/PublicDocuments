@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SQL Saturday Memphis 2022 Retrospective"
+title: "SQL Saturday November 2022 Update"
 author: Zach Golden
 ---
 Welcome to the November 2022 SQL Saturday Update. This updates includes a few sections.
@@ -51,27 +51,18 @@ Here are a few posts from our blog:
 
 <ul>
 	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-	<h3 style="display: block;margin: 0;padding: 0;color: #202020;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><span></span><a href="https://blog.sqlsaturday.com/2022-10-24-onlineevents/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;"><span style="color:#a31515">SQL Saturday Memphis 2022 Retrospective</span></a><span></span></h3>
-	</li>
-</ul>
-
-<h3 style="display: block;margin: 0;padding: 0;color: #202020;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;">&nbsp;</h3>
-
-<ul>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-	<h3 style="display: block;margin: 0;padding: 0;color: #202020;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><span><a href="https://blog.sqlsaturday.com/2022-10-24-onlineevents/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">A Need for Online Events</a></span></h3>
+	<a href="https://blog.sqlsaturday.com/2022-10-24-onlineevents/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">SQL Saturday Memphis 2022 Retrospective</a>
 	</li>
 	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-	<h3 style="display: block;margin: 0;padding: 0;color: #202020;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><a href="https://blog.sqlsaturday.com/2022-10-16-dataerasurerequests/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">SQL Saturday Data Erasure Requests </a></h3>
+    <a href="https://blog.sqlsaturday.com/2022-10-24-onlineevents/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">A Need for Online Events</a>
 	</li>
 	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-	<h3 style="display: block;margin: 0;padding: 0;color: #202020;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><a href="https://blog.sqlsaturday.com/2022-10-09-sqlsatboston/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">Easy Room Information at SQL Saturday Boston 2022</a></h3>
+    <a href="https://blog.sqlsaturday.com/2022-10-16-dataerasurerequests/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">SQL Saturday Data Erasure Requests </a>
+	</li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <a href="https://blog.sqlsaturday.com/2022-10-09-sqlsatboston/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">Easy Room Information at SQL Saturday Boston 2022</a>
 	</li>
 </ul>
 More posts at <a href="https://blog.sqlsaturday.com/blog/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">https://blog.sqlsaturday.com/blog/</a><br>
 <br>
-As always, a reminder that we are growing SQL Saturday again, independent of PASS or any other company. Pleasepass this email along to others and remind them to register for our mailing list here: <a href="http://eepurl.com/hwVBKn" rev="en_rl_none" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">http://eepurl.com/hwVBKn</a><br>
-&nbsp;
-                        </td>
-                    </tr>
-                </tbody></table>
+As always, a reminder that we are growing SQL Saturday again, independent of PASS or any other company. Pleasepass this email along to others and remind them to register for our mailing list here: <a href="http://eepurl.com/hwVBKn" rev="en_rl_none" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #007C89;font-weight: normal;text-decoration: underline;">http://eepurl.com/hwVBKn</a>
