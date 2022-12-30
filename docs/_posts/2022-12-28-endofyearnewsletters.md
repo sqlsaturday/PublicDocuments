@@ -23,7 +23,7 @@ It's been surprising to me how often I've written this message or told people, y
 
 This year was better than I expected. Throughout the year I have been alternately excited and disappointed in promoting SQL Saturday events. My goal at the start of the year was 10 events, and we exceeded that. There were 18 events (2 virtual) in 2022. We have 7 scheduled for 2023 (1 virtual) and 2 reserved dates.
 
-We also had Redgate agree to give Summit passes to organizers in 2022. I think we had 12 or 13 organizers attend the event, and I am hoping we can continue this program in 2023.
+We also negotiated to give Summit passes to organizers in 2022. I think we had 12 or 13 organizers attend the event, and I am hoping we can continue this program in 2023. I am also hoping we can have some other rewards for organizers. Suggestions are welcome.
 
 As we close out the year, I'm happy with our finances and operations. I am hopeful that we will see more events in 2023 in more communites as the world continues to move towards normalcy. My goal for next year is 25 events, and I hope to add another global sponsor. I also look forward to seeing more of you are events in different cities next year.
 
@@ -68,4 +68,4 @@ I have let a trademark expire, and another comes due in 2024. I am slightly conc
 
 That's about it. Please contact us if you have any questions.
 
-As always, a reminder that we are growing SQL Saturday again, independent of PASS or any other company. Pleasepass this email along to others and remind them to register for our mailing list here: <a href="http://eepurl.com/hwVBKn">http://eepurl.com/hwVBKn</a>
+As always, a reminder that we are growing SQL Saturday again, independent of PASS or any other company. Please forward this email along to others and remind them to register for our mailing list here: <a href="http://eepurl.com/hwVBKn">http://eepurl.com/hwVBKn</a>
