@@ -10,7 +10,7 @@ Tl;dr I am a mediocre developer and realized I had some strange logic in the web
 
 The SQL Saturday site runs on a GitHub Pages site at [https://sqlsaturday.com/](https://sqlsaturday.com/). The site's code is stored in our repo at: [https://github.com/sqlsaturday/sqlsatwebsite](https://github.com/sqlsaturday/sqlsatwebsite) and it built with GitHub actions.
 
-The build is based on [Jekyll]() and [Liquid](). The structure was forked from [DataSaturdays](https://github.com/dataplat/DataSaturdays) and some great work from [Rob Sewell](https://twitter.com/sqldbawithbeard) there. Since then, I modified the site in different ways, which give a lot of flexibility to organizers.
+The build is based on [Jekyll](https://jekyllrb.com/) and [Liquid](https://github.com/Shopify/liquid/wiki). The structure was forked from [DataSaturdays](https://github.com/dataplat/DataSaturdays) and some great work from [Rob Sewell](https://twitter.com/sqldbawithbeard) there. Since then, I modified the site in different ways, which give a lot of flexibility to organizers.
 
 ## Controlling the Site
 Most of the change between events are stored in YAML Files in the [_data/Events folder](https://github.com/sqlsaturday/sqlsatwebsite/tree/main/_data/events) in the repo. As an example, the SQL Saturday Jacksonville 2023 event is controlled with [this file](https://github.com/sqlsaturday/sqlsatwebsite/blob/main/_data/events/SQLSat1041.yml).
@@ -26,13 +26,13 @@ callforspeakers: false
 callforspeakersenddate: 31 Mar 2023
 ```
 
-These values are then applied in a layout view and replace certain structures. For example, in controlling the CFS, we have this code:
+These values are then applied in a layout view and replace certain structures. For example, in controlling the CFS, we have this code. Note I've removed the liquid markers to prevent issues.
 
 ```
-        {% if pagedata.speakerlisturl %}
+        if pagedata.speakerlisturl 
           <p>Here is a list of speakers for this event:</p>
            <script type="text/javascript" src="{{pagedata.speakerlisturl}}"></script>
-        {% endif %}
+        endif
 ```
 
 Here we are logically looking at the speakerlisturl key. It's blank in the YAML above, so this code block wouldn't output anything on the page. If it weren't blank, the value would be added to the script tag and get the data from Sessionize.
@@ -42,21 +42,16 @@ Here we are logically looking at the speakerlisturl key. It's blank in the YAML 
 My logic had a problem. It was reusing a value to do a couple of different things. I think I had a three-phase logic section (or maybe four?) in there. I had this layout code. Note that I'm checking for a true/false value to display the CFS. I then display the date.
 
 ```
-        {% if pagedata.callforspeakers == false %}
-          <p>The call for speakers is not open.
-          </p>
-        {% else %}
-            <p align="center">You can submit a session by clicking the link below. The call for speakers ends on {{ pagedata.callforspeakersenddate }}
+        if pagedata.callforspeakers == false
+          The call for speakers is not open.
+        else
+            You can submit a session by clicking the link below. The call for speakers ends on --pagedata.callforspeakersenddate--
             </p>
-            <p align="center">
-            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{pagedata.callforspeakersurl}}" target="_blank" rel="noopener noreferrer">Submit your session</a>
-            </p>
-            {% if pagedata.submittedsessionurl %}
-            <h3>Current Submitted Sessions</h3>
-            <p>Below is a list of submitted sessions by all speakers.</p>
-            <p align="left"><script type="text/javascript" src="{{pagedata.submittedsessionurl}}"></script></p>
-            {% endif %}
-        {% endif %}                         
+            [[button url using pagedata.callforspeakersurl]]
+            if pagedata.submittedsessionurl
+              -- list sessions
+            endif
+        endif
 ```
 
 The problem is the date is what really matters. The true/false value was added because a few events didn't want a public CFS. That's OK, but I then have the date displayed, but not checked. The date really determines if the CFS is open.
@@ -72,10 +67,9 @@ I decided to separate out the logic here and have one thing mean one thing. My d
 To implement this logic, I changed to code to this:
 
 ```
-        {% if pagedata.callforspeakers == false %}
-          <p>There is no call for speakers.
-          </p>
-        {% else %}
+        if pagedata.callforspeakers == false
+          There is no call for speakers.
+        else
 ```
 
 The else part of this will now determine if the CFS is open or not. The key, callforspeakers, not just determines if the event has a CFS.
@@ -83,15 +77,15 @@ The else part of this will now determine if the CFS is open or not. The key, cal
 The else part really does this. I'm showing part of the code, but essentially I'm showing the button for submissions if the CFS close date hasn't passed. I've added comments for psuedocode after the hash marks.
 
 ```
-         {% if pagedata.callforspeakersurl %}
-          {% if pagedata.callforspeakersenddate > now %}
+         if pagedata.callforspeakersurl
+          if pagedata.callforspeakersenddate > now
                 ## Show buttons
-          {% else %}
-              <p>The call for speakers is closed.</p>
-          {% endif %}
-         {% else %}
-          <p>The call for speakers is not open.</p>
-         {% endif %}
+          else
+              The call for speakers is closed.
+          endif
+         else
+          The call for speakers is not open.
+         endif
 ```
 
 With this logic, if there is no CFS URL, the CFS isn't open. Once I get this from the organizer, I add it to the YAML (or they do). 
