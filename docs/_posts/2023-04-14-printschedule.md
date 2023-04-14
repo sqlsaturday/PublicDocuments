@@ -19,7 +19,7 @@ This code essentially takes am Embed url like this one: https://sessionize.com/a
 
 This produced a schedule you could see, as shown in this image. This is embedded in the page.
 
-[Schedule view on the site](!/assets/img/blog/printschedule_a.png)
+![Schedule view on the site](/assets/img/blog/printschedule_a.png)
 
 That mostly worked, but there were a few issues. First, sometimes the embed doesn't look great, especially with wide schedules (lots of rooms). Sometimes this also had a vertical scroll bar if the configuration was large and there were lots of sessions.
 
