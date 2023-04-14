@@ -53,8 +53,10 @@ We added the layout logic below to display this as a link for users (HTML stuff 
 
 ```
                 if pagedata.printscheduleurl
-                  p You can also view the href="{pagedata.printscheduleurl}" target="_blank" print schedule /a /p
-                endif```
+         
+                  p You can also view the href="{pagedata.printscheduleurl}" target="_blank" print schedule /a /p               
+                endif
+```
 
 These two changes should make scheduleing a little smoother for organizers and attendees.
 
