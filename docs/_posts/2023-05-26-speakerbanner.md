@@ -12,19 +12,19 @@ This post looks at how you can get this from Sessionize. Not just for SQL Saturd
 
 In your sessionize account, you have an overview of your submissions. In the image below, you can see I have a few submissions for [SQL Saturday South Florida 2023](https://sqlsaturday.com/2023-06-03-sqlsaturday1053/). One is accepted, and I'll click on the Details button for that one.
 
-[South Florida Submissions]!(/assets/img/blog/2021/05/sessionizebanner_a.png)
+![South Florida Submissions](/assets/img/blog/2021/05/sessionizebanner_a.png)
 
 The details are shown below. On the right side, Sessionize has added a "Share you're speaking" section 
 
-[My events]!(/assets/img/blog/2021/05/sessionizebanner_b.png)
+![My events](/assets/img/blog/2021/05/sessionizebanner_b.png)
 
 If I zoom in, I see a Generate and download button. I could clip this, but if I click the Generate and download, they'll send me one.
 
-[generate and download button]!(/assets/img/blog/2021/05/sessionizebanner_c.png)
+![generate and download button](/assets/img/blog/2021/05/sessionizebanner_c.png)
 
 I get this downloaded automatically.
 
-[Image download]!(/assets/img/blog/2021/05/sessionizebanner_d.png)
+![Image download](/assets/img/blog/2021/05/sessionizebanner_d.png)
 
 ## Promote Yourself and the Event
 
@@ -36,11 +36,11 @@ Doing a little marketing can help get you a bigger audience, but it also helps e
 
 You might want to create a collage or other type of CV that showcases your speaking efforts. If you want previous banners, you can go to "My Events" on Sessionize. As shown below, you'll see previous events.
 
-[South Florida Submissions]!(/assets/img/blog/2021/05/sessionizebanner_e.png)
+![South Florida Submissions](/assets/img/blog/2021/05/sessionizebanner_e.png)
 
 If I click on the Jacksonville SQL Saturday, I see my sessions. There is a banner button here as well, as you can see.
 
-[South Florida Submissions]!(/assets/img/blog/2021/05/sessionizebanner_f.png)
+![South Florida Submissions](/assets/img/blog/2021/05/sessionizebanner_f.png)
 
 I just keep a [text Speaking CV](https://voiceofthedba.com/speaking-cv/) since I do this a lot, but you might want to be creative and build other pages for your profile. A great way to promote yourself.
 
