@@ -1,3 +1,8 @@
+---
+layout: page
+title: Taiob Ali
+permalink: /documentation/TaiobAli/
+---
 # Taiob Ali
 Taiob is currently working at an investment management firm as Database Solutions Manager and focusing on automation, improving, and streamlining operational workflow. I am also working on planning, preparing, and migrating the data platform to the cloud. I am a regular speaker at local and virtual chapters, SQL and Data Saturdays, and Azure conferences. I am a board member of the New England SQL Server User Group, founder of ‘Database Professionals Virtual Meetup Group’, and organizer of Boston SQL Saturday.
 
