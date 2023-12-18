@@ -1,11 +1,7 @@
----
-layout: page
-title: The SQL Saturday Board of Directors
-permalink: /board/
----
+# Board Members of the SQL Saturday Corporation
+This page is a placeholder for the board members of the SQL Saturday Corporation, present and past.
 
-The board of directors for the SQL Saturday non profit corporation consists of these directors as of 2021:
-
+## Current Members
 - [Andy Warren](/board/AndyWarren/) ([b](https://sqlandy.com/), [t](https://twitter.com/sqlandy)) – USA
 - Carlos Lopez ([b](https://thedbamuppity.blogspot.com/), [t](https://twitter.com/CarlosLopezSQL)) – LATAM
 - Heidi Hastings ([t](https://twitter.com/HeidiHasting)) – APAC
@@ -16,6 +12,5 @@ The board of directors for the SQL Saturday non profit corporation consists of t
 - Taiob Ali ([b](https://sqlworldwide.com/), [t](https://twitter.com/SqlWorldWide)) – APAC/USA
 - Dr. Victoria Holt ([b](https://blog.victoriaholt.co.uk/), [t](https://twitter.com/victoria_holt)) - EUR
 
-This is the initial board, appointed for the current year, 2021-2022.
-
-We are working on adapting the bylaws for our needs as well as setting up the structure for an election in 2022 to replace some members.
+## Past Members
+As of Dec 2023, we do not have any past members.
