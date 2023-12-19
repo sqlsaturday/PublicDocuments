@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dr. Victoria Holt
-permalink: /documentation/VictoriaHolt/
+permalink: /bod/VictoriaHolt/
 ---
 # Victoria Holt
 Victoria is an Enterprise Data Architect in the UK and one of the organizers of Data Toboggan. She has been a well known speaker at various conferences.

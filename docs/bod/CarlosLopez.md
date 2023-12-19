@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carlos Lopez
-permalink: /documentation/CarlosLopez/
+permalink: /bod/CarlosLopez/
 ---
 # Carlos Lopez
 Carlos 

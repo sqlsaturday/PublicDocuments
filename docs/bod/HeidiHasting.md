@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Heidi Hasting
-permalink: /documentation/HeidiHasting/
+permalink: /bod/HeidiHasting/
 ---
 # Heidi Hasting
 Heidi Hasting is a Business Intelligence professional and former software developer with over seven years of experience in Microsoft products. An ALM/DLM enthusiast and Azure DevOps fan and co-founder and organiser of the Adelaide Power BI User Group. A regular attendee at tech events both in-person and virtual, including Azure Bootcamps, DevOps days, SQLSaturdays, Difinity and PASS Summit. She is a Microsoft Data Platform MVP in Adelaide, Australia

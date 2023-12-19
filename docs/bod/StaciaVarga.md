@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stacia Varga
-permalink: /documentation/StaciaVarga/
+permalink: /bod/StaciaVarga/
 ---
 # Stacia Misner Varga
 Stacia Misner Varga is passionate about using data to support business decisions and is the founder of Data Inspirations. She has been a longtime speaker and consultant in the data space.

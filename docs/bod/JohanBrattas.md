@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Johan Brattås
-permalink: /documentation/JohanBrattas/
+permalink: /bod/JohanBrattas/
 ---
 # Johan Brattås
 Johan 
