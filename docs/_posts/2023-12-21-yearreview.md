@@ -54,8 +54,6 @@ We already have 7 events listed in 2024 and I have 3 other tentative ones that a
 
 I am also encouraging user group leaders to work with peer groups, perhaps Power BI/analytics or dotNet groups, to combine and co-locate events to make logistics easier and share the effort. Plus, marketing to two different groups might bring in more attendees.
 
-
-
 All our events (and others) are listed at [https://sqlsaturday.com/](https://sqlsaturday.com/). Spread the word and let others know about events near you. If you want to speak, volunteer, or help organize an event, contact the organizers. They are always looking for help.
 
 If you or others want to join our mailing list, you can register here: [http://eepurl.com/hwVBKn](http://eepurl.com/hwVBKn). Please feel free to pass this along to others.
