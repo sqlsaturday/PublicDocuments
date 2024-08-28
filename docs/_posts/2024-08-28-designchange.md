@@ -5,11 +5,11 @@ author: Steve Jones
 ---
 For a long time I've had a menu at the top of each SQL Saturday event. This has looked like this:
 
-![Event table of contents](/assets/img/2024-08_0124.png)
+![Event table of contents](/assets/img/blog/2024-08_0124.png)
 
 This has worked well, with a "return" below each section. That was a design decision that made sense to me. Each section had this below it, which you can see a few examples of this below:
 
-![return to top navigation](/assets/img/2024-08_0122.png)
+![return to top navigation](/assets/img/blog/2024-08_0122.png)
 
 As I constantly update events and check things on pages, I wondered why do I need to go to the top of the page? If I'm checking sponsors, why not be able to link to the CFS quickly? Or the contacts?
 
@@ -17,7 +17,7 @@ I made a change. [Pull request 632](https://github.com/sqlsaturday/sqlsatwebsite
 
 This is the new look.
 
-![navigation everywhere](/assets/img/2024-08_0123.png)
+![navigation everywhere](/assets/img/blog/2024-08_0123.png)
 
 Comments welcome.
 
