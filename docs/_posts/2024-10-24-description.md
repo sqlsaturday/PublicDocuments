@@ -11,7 +11,7 @@ It used to say:
 
 I've had a few people ask if they could accept non-SQL Server/Azure sessions at events. I've also had them talk about getting vendors from competing technologies. We haven't had any restrictions on this for a long time, and we've had lots of events that cover plenty of non-Microsoft technologies.
 
-I just made it official.
+I just made it official. If anyone has better ideas on verbiage or how to promote market, let me know.
 
 ## Reminders
 
