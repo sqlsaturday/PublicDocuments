@@ -7,7 +7,7 @@ SQL Saturday Joinville 2025 was held recently and it was a great event with over
 
 A few images from the event:
 
-[Joiinville Photos](https://univillebr-my.sharepoint.com/personal/rodrigodornel_univille_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frodrigodornel%5Funiville%5Fbr%2FDocuments%2FFotosSQLSaturday&ga=1)
+[Joinville Photos](https://univillebr-my.sharepoint.com/personal/rodrigodornel_univille_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frodrigodornel%5Funiville%5Fbr%2FDocuments%2FFotosSQLSaturday&ga=1)
 
 ## Reminders
 

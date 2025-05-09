@@ -7,7 +7,7 @@ As I was sitting on a plane Wednesday afternoon, I got a text that the [SQL Satu
 
 Strange as nothing has changed in quite some time.
 
-When I landed, I fired up my laptop and was able to connect. I actually made a change in [the repo](https://github.com/sqlsaturday/sqlsatwebsite) for a site and rebuilt it. Checking the link and settings in GitHub it seemed to be working. I didnt' think anything of it, but on Thursday morning I got a few other emails from friends that the site was down.
+When I landed, I fired up my laptop and was able to connect. I actually made a change in [the repo](https://github.com/sqlsaturday/sqlsatwebsite) for a site and rebuilt it. Checking the link and settings in GitHub it seemed to be working. I didn't think anything of it, but on Thursday morning I got a few other emails from friends that the site was down.
 
 I realized there was an issue and started checking things. I realized after a few MFA missteps and some hunting through various accounts that the domain renewal had failed with an older credit card. The account is set to my personal credit card, and hasn't been changed over to the SQL Saturday corporate one. The domain also migrated from Google Domains (now out of business) to Square Space and used an email that I don't use for the foundation.
 
