@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "SQL Saturday Joinville 2025 Photos"
+title: "SQL Saturday Austin 2025 Recap"
 author: Steve Jones
 ---
-SQL Saturday Joinville 2025 was held recently and it was a great event with over 300 people attending. I want to thank the organizers and volunteers for their hard work in making this event a success.
+SQL Saturday Austin 2025 was held recently and it was a really fun event. Thanks to Procure SQL for organizing and running this event. They had a <a href="https://procuresql.com/blog/2023/03/08/austin-texas-sql-saturday-was-a-success/">recap on their blog</a> and I had one as well. Conor Cunningham gave a keynote and I <a href="https://voiceofthedba.com/2025/05/12/sql-server-engineering-in-austin/">wrote about it</a>. It was fantastic and if you get the chance to see Conor speak, go.
 
-A few images from the event:
+A smaller event, but still great. Lots of good talks, nice conversations, and the chance to connect with others, share some knowledge, and learn new things.
 
-[Joinville Photos](https://univillebr-my.sharepoint.com/personal/rodrigodornel_univille_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frodrigodornel%5Funiville%5Fbr%2FDocuments%2FFotosSQLSaturday&ga=1)
+This event reminded me why SQL Saturdays are great events for your career. Go to an event near you and help your local community organize their own event. It's a great investment in your career.
 
 ## Reminders
 
