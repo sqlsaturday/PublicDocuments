@@ -1,0 +1,56 @@
+---
+layout: post
+title: "The 2024 SQL Saturday Year End Review"
+author: Steve Jones
+---
+I'm late, but I am finally getting to a review of 2024. I meant to do this at the end of the year, but I was buried in personal stuff.
+
+Overall, I think SQL Saturday saw a little growth in 2024, though still not back to the levels we saw in 2019. I do wonder if we'll ever get there, even including the other events that SQL Saturday spawned. We will see how things go.
+
+# 2024 Events
+In 2024 we had a total of 31 events. This was up from 28 in 2023, and 18 in 2022. Events are slowly coming back, but also some are not repeating. Space continues to be a challenge for many organizers as venues are charging more, with many corporations and schools not wanting to host external events.
+
+We had a number of repeat events from the previous year. It is good to see communities with continuity and growth. Sao Paulo, Lima, Belo Horizonte, Oregon, Toronto, Orlando, Boston, Minnesota, Denver, Baton Rouge, South Florida, Jacksonville and more held 2024 events after having 2023 ones.
+
+We also had a few communities run events in 2024 that had not run one in 2023. Richmond, Albany, Atlanta, Orange County, Pittsburgh the South Island of NZ, and Salt Lake City come to mind. Some of these haven't run events since the pandemic, so it's nice to see them growing again.
+
+We only had one virtual event, SQL Saturday Haiti, which is fine with me. I think a full day of virtual sessions is hard to manage and attend, but I am happy to support any that want to run them in 2025.
+
+## Sponsorship
+We received 
+
+
+# The Corporate Status
+As a corporation, we continue to do well in 2024 and finished the year in a strong financial position.
+
+
+This year we received a few donations as well as advertising revenue. We also had very limited expenses. Here is a summary of our income and expenses for 2023. Amounts in USD.
+
+| Income | Amount | Total |
+|    Advertising | $100 | |
+|    Donations | $225 | |
+| Total Income |  | $225 |
+| Expenses |  |  |
+|   Corporate Hosting Fee | $150 | |
+|   Streaming Service | $50 | |
+|   Bank Fees | $139.99 | |
+|   Tech Soup | $18 | |
+|   Zoom subscription | $159.80 | |
+| Total expenses |  | $517.79 |
+| Net Income |  | $-192.79 |
+
+Running SQL Saturday cost roughly $200 this year, excluding volunteer time spent on the franchise. I have only had a few engagements with the board, primarily seeking guidance on a few matters. Most of the effort of running the corporation is done by me, as President, with 5-10 hours a month spent on emails and communicating with the organizers of events.
+
+I do worry a bit about sustainability in the future if I am not devoting time to running the corporation, but I hope that I can find someone passionate about SQL Saturday who would want to take over some of the monthly administrative and communication tasks with organizers.
+
+# Board of Directors
+No changes in 2024. I asked if anyone wanted to step down, but no one did and we have no had any issues that really require much more than board opinions, so we continue as is. 
+
+# A Strong 2025 Start
+In 2024 we had 13 events in the first half of the year. We have scheduled 12 and 3 are tentative already in 2025. We had one event postponed with a conflict for the organizer and we are hoping to reschedule that. So far only 3 events set for H2, but I expect more to be
+
+I am also encouraging user group leaders to work with peer groups, perhaps Power BI/analytics or dotNet groups, to combine and co-locate events to make logistics easier and share the effort. Plus, marketing to two different groups might bring in more attendees.
+
+All our events (and others) are listed at [https://sqlsaturday.com/](https://sqlsaturday.com/). Spread the word and let others know about events near you. If you want to speak, volunteer, or help organize an event, contact the organizers. They are always looking for help.
+
+If you or others want to join our mailing list, you can register here: [http://eepurl.com/hwVBKn](http://eepurl.com/hwVBKn). Please feel free to pass this along to others.
